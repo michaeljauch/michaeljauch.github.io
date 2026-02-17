@@ -1,0 +1,66 @@
+# exmpl5.10
+# A data set from Oehlert (2000) \emph{A First Course in Design and
+# Analysis of Experiments}, New York: W. H. Freeman.
+#
+# Data originally from Tom Hoverstad (personal communication).
+#
+# Percent weed control in soybeans under 14 different treatments.
+# Columns are treatment number and percent control. 
+           trt           y
+            1           99
+            2           95
+            3           92
+            4           95
+            5           85
+            6           98
+            7           99
+            1           99
+            2           92
+            3           95
+            4           88
+            5           92
+            6           99
+            7           95
+            1           99
+            2           95
+            3           92
+            4           95
+            5           92
+            6           95
+            7           99
+            1           99
+            2           90
+            3           92
+            4           95
+            5           95
+            6           99
+            7           95
+            8           95
+            9           92
+           10           99
+           11           99
+           12           88
+           13           65
+           14           75
+            8           85
+            9           90
+           10           95
+           11           99
+           12           88
+           13           65
+           14           50
+            8           95
+            9           95
+           10           99
+           11           99
+           12           85
+           13           92
+           14           72
+            8           97
+            9           90
+           10           95
+           11           99
+           12           68
+           13           72
+           14           68
+

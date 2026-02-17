@@ -1,0 +1,26 @@
+# pr16.13
+# A data set from Oehlert (2000) \emph{A First Course in Design and
+# Analysis of Experiments}, New York: W. H. Freeman.
+#
+# Data originally from Julia Frost (personal communication).
+#
+# Columns are enclosure, density (low and high), ruffe (absent and present),
+# and weight change in perch (g).
+enclosure desnity ruffe weight.change
+            1            1            1            0
+            2            1            1          0.4
+            3            1            1          0.9
+            4            1            1         -0.4
+            1            2            1          0.9
+            2            2            1         -0.4
+            3            2            1         -0.6
+            4            2            1         -1.2
+            1            1            2            0
+            2            1            2         -0.4
+            3            1            2         -0.9
+            4            1            2         -0.9
+            1            2            2         -1.2
+            2            2            2         -1.5
+            3            2            2         -1.1
+            4            2            2         -0.7
+

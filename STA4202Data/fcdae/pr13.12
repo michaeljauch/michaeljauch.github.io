@@ -1,0 +1,37 @@
+# pr13.12
+# A data set from Oehlert (2000) \emph{A First Course in Design and
+# Analysis of Experiments}, New York: W. H. Freeman.
+#
+# Data originally from Swanlund, D.~J., M.~R. N'Diaye, K.~J. Loseth,
+# J.~L. Pryor, and B.~G. Crabo (1995).  ``Diverse testicular responses
+# to exogenous growth hormone and follicle-stimulating hormone in
+# prepubertal boars. {\em Biology of Reproduction\/}~{\em 53}, 749--757.
+#
+# Columns are litter, GH (absent or present), FSH (absent
+# or present), and response (in meters)
+        litter          GH          FSH          y
+            1            1            1         1641
+            2            1            1         1290
+            3            1            1         2411
+            4            1            1         2527
+            5            1            1         1930
+            6            1            1         2158
+            1            2            1         1829
+            2            2            1         1811
+            3            2            1         1897
+            4            2            1         1506
+            5            2            1         2060
+            6            2            1         1207
+            1            1            2         3395
+            2            1            2         3113
+            3            1            2         2219
+            4            1            2         2667
+            5            1            2         2210
+            6            1            2         2625
+            1            2            2         1537
+            2            2            2         1991
+            3            2            2         3639
+            4            2            2         2246
+            5            2            2         1840
+            6            2            2         2217
+

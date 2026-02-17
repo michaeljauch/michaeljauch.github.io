@@ -1,0 +1,65 @@
+# pr13.10
+# A data set from Oehlert (2000) \emph{A First Course in Design and
+# Analysis of Experiments}, New York: W. H. Freeman.
+#
+# Data originally from Todd Kerkow (personal communication).
+#
+# Columns are laminate, location, and coded length.
+     laminate     location       length
+            1            1           28
+            2            1           20
+            3            1           23
+            4            1           29
+            5            1           44
+            6            1           45
+            7            1           43
+            1            2           11
+            2            2           20
+            3            2           27
+            4            2           31
+            5            2           33
+            6            2           38
+            7            2           36
+            1            3           26
+            2            3           26
+            3            3           14
+            4            3           17
+            5            3           41
+            6            3           36
+            7            3           36
+            1            4           23
+            2            4           26
+            3            4           18
+            4            4           21
+            5            4           36
+            6            4           36
+            7            4           39
+            1            5           20
+            2            5           21
+            3            5           30
+            4            5           28
+            5            5           45
+            6            5           31
+            7            5           33
+            1            6           16
+            2            6           19
+            3            6           24
+            4            6           23
+            5            6           33
+            6            6           32
+            7            6           39
+            1            7           37
+            2            7           43
+            3            7           49
+            4            7           33
+            5            7           53
+            6            7           49
+            7            7           32
+            1            8            4
+            2            8            9
+            3            8           13
+            4            8           17
+            5            8           39
+            6            8           29
+            7            8           32
+
